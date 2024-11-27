@@ -1,0 +1,22 @@
+body{
+    background-color:wheat;
+    margin:10px;
+    text-align: center;
+    padding: 20px;
+}
+title{
+    text-align:center;
+    text-shadow: 5px,5px,10px white;
+    font-size: 7vh;
+}
+img{
+    display:inline-block;
+    padding: 20px;
+    width:50%
+}
+small{
+    font-display: block;
+}
+p{
+    text-align: left;
+}
